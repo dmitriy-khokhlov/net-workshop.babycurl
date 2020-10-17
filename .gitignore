@@ -1,0 +1,7 @@
+# Build artefacts
+*.o
+babycurl
+
+# vim stuff
+.*.swp
+*.vim
